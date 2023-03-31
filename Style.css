@@ -43,15 +43,9 @@ main {
 	margin-bottom: 40px;
 }
 
-.book img {
-	max-width: 100%;
-}
 
-.book h3 {
-	font-size: 18px;
-	margin-top: 10px;
-	margin-bottom: 5px;
-}
+
+
 
 .book p {
 	font-size: 14px;
@@ -60,7 +54,8 @@ main {
 
 .book button {
 	background-color: rgb(213, 84, 14);
-	color: #fff;
+	color: rgb(33, 16, 16);
+	
 	border: none;
 	padding: 10px 20px;
 	border-radius: 5px;
